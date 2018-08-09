@@ -11,9 +11,7 @@ packages. To install additional php packages, use the php_packages property
 with an array of packages names, for example:
 
 php72 'install php72 w cli' do
-
   php_packages ['php72-php-cli', 'php72-php-fpm']
-
 end
 
 Note on package name "php72": this package installs a mandatory dependency on

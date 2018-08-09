@@ -1,0 +1,6 @@
+I, [2018-08-09T11:00:06.708282 #50073]  INFO -- default-amazonlinux: -----> Destroying <default-amazonlinux>...
+I, [2018-08-09T11:00:06.801189 #50073]  INFO -- default-amazonlinux: PID                 USER                TIME                COMMAND
+I, [2018-08-09T11:00:06.801295 #50073]  INFO -- default-amazonlinux: 4862                root                0:00                /usr/sbin/sshd -D -o UseDNS=no -o UsePAM=no -o PasswordAuthentication=yes -o UsePrivilegeSeparation=no -o PidFile=/tmp/sshd.pid
+I, [2018-08-09T11:00:07.417296 #50073]  INFO -- default-amazonlinux: 3b20ecbb4008755f931ae721013e414ee63dcbffb4404a70d6650b202112e438
+I, [2018-08-09T11:00:08.380320 #50073]  INFO -- default-amazonlinux: 3b20ecbb4008755f931ae721013e414ee63dcbffb4404a70d6650b202112e438
+I, [2018-08-09T11:00:08.396131 #50073]  INFO -- default-amazonlinux: Finished destroying <default-amazonlinux> (0m1.69s).

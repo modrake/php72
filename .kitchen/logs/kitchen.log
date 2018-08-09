@@ -1,0 +1,3 @@
+I, [2018-08-09T11:00:05.465662 #50073]  INFO -- Kitchen: -----> Starting Kitchen (v1.19.2)
+I, [2018-08-09T11:00:06.708219 #50073]  INFO -- Kitchen: -----> Destroying <default-amazonlinux>...
+I, [2018-08-09T11:00:08.396729 #50073]  INFO -- Kitchen: -----> Kitchen is finished. (0m2.93s)

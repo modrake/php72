@@ -1,10 +1,8 @@
 #PHP72
 
-This cookbook provides a simple customresource for installing php7.2 on AWS
-Linux 1.
+This cookbook provides a simple custom resource for installing php7.2 on AWS
+Linux 1, using epel and remi-repo.
 In order to use this you must include it in your recipe's metadata.
-
-To call the resource, use the "php72" resource.
 
 By default this resource installs only the php72-php-cli and php72-php-fpm
 packages. To install additional php packages, use the php_packages property
